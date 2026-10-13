@@ -1,5 +1,4 @@
 
-
 name: Build APK
 
 on:
@@ -28,3 +27,4 @@ jobs:
         with:
           name: Abdullahs-Tech-APK
           path: app/build/outputs/apk/debug/*.apk
+
