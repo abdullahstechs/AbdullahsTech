@@ -1,0 +1,1 @@
+Build APK on workflow dispatch. Jobs build runs on ubuntu latest. Steps check out v4, set up JDK 17, then run gradle wrapper permissions, then gradle build debug.
